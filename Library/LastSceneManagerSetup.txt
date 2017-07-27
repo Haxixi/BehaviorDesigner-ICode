@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Behavior Designer Samples/ICode/scene.unity
+  isLoaded: 1
+  isActive: 1
